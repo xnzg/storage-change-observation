@@ -19,7 +19,7 @@ let package = Package(
     ],
     dependencies: [
         // For "prerelease/1.0".
-        .package(url: "https://github.com/pointfreeco/swift-composable-architecture", revision: "fc17996"),
+        .package(url: "https://github.com/pointfreeco/swift-composable-architecture", revision: "647c93a"),
         .package(url: "https://github.com/pointfreeco/swift-dependencies", from: "0.1.2"),
         .package(url: "https://github.com/xnzg/testable-fruits", branch: "main"),
         .package(url: "https://github.com/xnzg/Yumi", from: "0.1.0"),
